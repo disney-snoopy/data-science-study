@@ -3,6 +3,7 @@ Collection of study notebooks and useful learning materials.
 
 ### Python
 - [Numpy operations](https://github.com/disney-snoopy/data-science-study/blob/master/python/numpy_operations.ipynb)
+- [Numpy & linear algebra](https://github.com/disney-snoopy/data-science-study/blob/master/python/numpy_linear_algebra.ipynb) (work in progress)
 
 ### Dimensionality reduction
 - [PCA](https://github.com/disney-snoopy/data-science-study/blob/master/dimensionality_reduction/pca.ipynb)
