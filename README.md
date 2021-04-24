@@ -1,5 +1,9 @@
 # data-science-study
 Collection of study notebooks and useful learning materials.
+
+### Python
+- [Numpy operations](https://github.com/disney-snoopy/data-science-study/blob/master/python/numpy_operations.ipynb)
+
 ### Dimensionality reduction
 - [PCA](https://github.com/disney-snoopy/data-science-study/blob/master/dimensionality_reduction/pca.ipynb)
 
